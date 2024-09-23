@@ -11,7 +11,10 @@
 </a>
 <p align="center">
 
-## ☺ My Editor And Tools
+# Profile View
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SahrulGunawan-ID&label=Profile%20views&color=0e75b6&style=flat" alt="SahrulGunawan-ID" />
+
+# <h2>👇My Editor & Tools👇</h2>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
