@@ -25,9 +25,9 @@
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber?color=red&label=FILES%20TOTALS%20&logo=Github%20Repo&logoColor=green&style=for-the-badge">
-<img alt="Website" src="https://img.shields.io/website?color=g&down_color=red&down_message=OFFLINE&label=REPO%20STATUS&logo=SAHRUL%20GUNAWAN&logoColor=red&style=for-the-badge&up_color=red&up_message=ONLINE&url=https%3A%2F%2Fgithub.com%2FBang-Sahrul-Gunawan-Cyber">
-<img alt="GitHub" src="https://img.shields.io/github/license/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber?color=gree&label=LICENSE%20REPO&logo=Bang%20Sahrul&logoColor=red">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/SahrulGunawan-ID/SahrulGunawan-ID?color=red&label=FILES%20TOTALS%20&logo=Github%20Repo&logoColor=green&style=for-the-badge">
+<img alt="Website" src="https://img.shields.io/website?color=g&down_color=red&down_message=OFFLINE&label=REPO%20STATUS&logo=SAHRUL%20GUNAWAN&logoColor=red&style=for-the-badge&up_color=red&up_message=ONLINE&url=https%3A%2F%2Fgithub.com%2FSahrulGunawan-ID">
+<img alt="GitHub" src="https://img.shields.io/github/license/SahrulGunawan-ID/SahrulGunawan-ID?color=gree&label=LICENSE%20REPO&logo=Bang%20Sahrul&logoColor=red">
 
 ### MY SOCIAL MEDIA SAYA
 * [<img alt="Dunia-Kode's Github" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/SahrulGunawan-ID/SahrulGunawan-ID/) FOLLOW MY GITHUB<br />
