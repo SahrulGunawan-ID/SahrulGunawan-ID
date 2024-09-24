@@ -1,0 +1,35 @@
+{
+   "JavaLibrary": [
+   {
+      "pkg":"com.java.library",
+      "new":"3.7-Beta",
+      "info":"\nUPDATE 3.6:\n 		* Update SDK 28\n 		* Use Material Template\n 		* Rebuild Module\n 		* Integrate With AppCompatActivity\n 		* Remove Old Menu\n 		* Using Navigation Drawer\n 		* Using Secured AES\n 		* Integrate With Firebase\n 		* Multi Page Spliter\n 		* Fixed Database\n 		* Fixed Adapter\n 		* And More..",
+      "link":"https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/JavaLibrary.apk"
+   },
+   {
+		"code" : "1.6",
+		"link_code" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/List.db",
+		"library" : "1.6",
+		"link_library" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Libs.db",
+		"aide" : "1.6",
+		"link_aide" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Aide.db",
+		"studio" : "1.6",
+		"link_studio" : "https://raw.githubusercontent.com/Gymkhana-Studio/JavaLibrary/master/Release/Studio.db"
+	},
+	{
+		"admob" : "on",
+                "admob2" : "on",
+                "admob_interstitial" : "on",
+                "admob_video" : "on",
+                "menu" : "2",
+		"offline" : "off",
+		"enable_0" : "on",
+		"enable_1" : "on",
+		"enable_2" : "on",
+		"enable_3" : "on",
+		"connection" : "off",
+		"msg" : "Hello... i have a button donation on my blog, buy me a cofee!",
+                "mail" : ["gymkhana.studio@gmail.com"]
+	}
+   ]
+}
