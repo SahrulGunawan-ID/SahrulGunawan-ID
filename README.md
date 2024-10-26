@@ -1,4 +1,5 @@
-![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber/raw/main/.github/master/git/code/images/system.gif)
+![template_s](https://raw.githubusercontent.com/SahrulGunawan-ID/SahrulGunawan-ID/refs/heads/main/MYGIF/myconding.gif)
+<br>
 ![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=onedark)
 <h4 align="center">VISITOR TOTALS</h4>
 
