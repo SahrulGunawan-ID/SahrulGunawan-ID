@@ -8,7 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahrulGunawan-ID&theme=github&utcOffset=8)
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=discord)
+![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=onedark)
 <h4 align="center">VISITOR TOTALS</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{SahrulGunawan-ID}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
