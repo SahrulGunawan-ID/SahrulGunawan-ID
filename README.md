@@ -1,5 +1,13 @@
 ![template_s](https://raw.githubusercontent.com/SahrulGunawan-ID/SahrulGunawan-ID/refs/heads/main/MYGIF/myconding.gif)
 <br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahrulGunawan-ID&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahrulGunawan-ID&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahrulGunawan-ID&theme=github&utcOffset=8)
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=discord)
 <h4 align="center">VISITOR TOTALS</h4>
 
