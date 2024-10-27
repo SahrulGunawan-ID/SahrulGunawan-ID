@@ -1,4 +1,13 @@
-![template_s](https://github.com/Bang-Sahrul-Gunawan-Cyber/Bang-Sahrul-Gunawan-Cyber/raw/main/.github/master/git/code/images/system.gif)
+![template_s](https://raw.githubusercontent.com/SahrulGunawan-ID/SahrulGunawan-ID/refs/heads/main/MYGIF/myconding.gif)
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahrulGunawan-ID&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahrulGunawan-ID&theme=github)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahrulGunawan-ID&theme=github&utcOffset=8)
+
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=onedark)
 <h4 align="center">VISITOR TOTALS</h4>
 
@@ -30,17 +39,13 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/SahrulGunawan-ID/SahrulGunawan-ID?color=red&label=FILES%20TOTALS%20&logo=Github%20Repo&logoColor=green&style=for-the-badge">
 <img alt="Website" src="https://img.shields.io/website?color=g&down_color=red&down_message=OFFLINE&label=REPO%20STATUS&logo=SAHRUL%20GUNAWAN&logoColor=red&style=for-the-badge&up_color=red&up_message=ONLINE&url=https%3A%2F%2Fgithub.com%2FSahrulGunawan-ID">
-<!---<img alt="GitHub" src="https://img.shields.io/github/license/SahrulGunawan-ID/SahrulGunawan-ID?color=gree&label=LICENSE%20REPO&logo=Bang%20Sahrul&logoColor=red">--->
 
 ### MY SOCIAL MEDIA SAYA
-* [<img alt="Dunia-Kode's Github" align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/SahrulGunawan-ID/SahrulGunawan-ID/) FOLLOW MY GITHUB<br />
-<p>
-    <a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
+<a href="https://a.paddle.com/v2/click/16413/119403?link=1227">
       <img src="https://img.shields.io/badge/Supported%20by-VSCode%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/>
     </a>
     <a href="https://a.paddle.com/v2/click/16413/119403?link=2345">
       <img src="https://img.shields.io/badge/Supported%20by-Node%20Cli.com%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
-    <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
   </a>
   </p>
