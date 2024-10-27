@@ -1,6 +1,6 @@
 ![template_s](https://raw.githubusercontent.com/SahrulGunawan-ID/SahrulGunawan-ID/refs/heads/main/MYGIF/myconding.gif)
 <br>
-![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=onedark)
+![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=discord)
 <h4 align="center">VISITOR TOTALS</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{SahrulGunawan-ID}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
