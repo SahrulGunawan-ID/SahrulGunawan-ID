@@ -49,3 +49,27 @@
     <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
   </a>
   </p>
+
+### Struktur Direktori
+```
+.github/
+├── CODE_OF_CONDUCT.md
+├── CONTRIBUTING.md
+├── FUNDING.yml
+├── GOVERNANCE.md
+├── SECURITY.md
+└── SUPPORT.md
+
+MYGIF/
+├── README.MD
+├── myconding.gif
+
+sahrulgunawan/
+├── index.html
+├── sahrulgunawan.png
+├── style.css
+
+LICENSE
+README.md
+RULES.MD
+```
