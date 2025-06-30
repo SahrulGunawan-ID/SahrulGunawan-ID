@@ -1,4 +1,4 @@
-name: Build GCC 15.1
+name: Build GCC 15.1 from Source Tarball
 
 on:
   workflow_dispatch:
@@ -6,40 +6,43 @@ on:
 jobs:
   build-gcc:
     runs-on: ubuntu-22.04
+
     steps:
-    - name: Checkout empty repo
+    - name: Checkout (minimal untuk workspace)
       uses: actions/checkout@v4
 
-    - name: Install build dependencies
+    - name: Install Dependencies
       run: |
         sudo apt update
-        sudo apt install -y build-essential git make gawk flex bison \
-          libgmp-dev libmpfr-dev libmpc-dev python3 binutils perl \
-          libisl-dev libzstd-dev tar gzip bzip2
+        sudo apt install -y build-essential gawk flex bison \
+          libgmp-dev libmpfr-dev libmpc-dev libisl-dev \
+          zlib1g-dev libzstd-dev python3 tar gzip bzip2 perl
 
-    - name: Clone GCC source
+    - name: Download GCC Tarball
       run: |
-        git clone https://gcc.gnu.org/git/gcc.git gcc-15-source
-        cd gcc-15-source        
+        wget https://gcc.gnu.org/pub/gcc/releases/gcc-15.1.0/gcc-15.1.0.tar.xz
+        tar -xf gcc-15.1.0.tar.xz
+
+    - name: Download Prerequisites
+      run: |
+        cd gcc-15.1.0
         ./contrib/download_prerequisites
 
-    - name: Configure build
+    - name: Configure Build
       run: |
         mkdir gcc-15-build
         cd gcc-15-build
-        ../gcc-15-source/configure \
+        ../gcc-15.1.0/configure \
           --disable-multilib \
           --enable-languages=c,c++ \
           --prefix=$GITHUB_WORKSPACE/gcc-15-install
 
-    - name: Build & Install GCC 15.1
+    - name: Build & Install
       run: |
         cd gcc-15-build
-        make -j8      
+        make -j4        
 
-    - name: Export path for test
+    - name: Use GCC 15
       run: |
         echo "$GITHUB_WORKSPACE/gcc-15-install/bin" >> $GITHUB_PATH
-
-    - name: Verify version
-      run: gcc --version
+        gcc --version
