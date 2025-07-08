@@ -1,3 +1,6 @@
+# Total Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=SahrulGunawan-ID&label=Profile%20views&color=0e75b6&style=flat" alt="SahrulGunawan-ID" />
+      
 ![template_s](https://raw.githubusercontent.com/SahrulGunawan-ID/SahrulGunawan-ID/refs/heads/main/MYGIF/myconding.gif)
 <br>
 
@@ -9,9 +12,6 @@
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SahrulGunawan-ID&theme=onedark)
-<h4 align="center">VISITOR TOTALS</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{SahrulGunawan-ID}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">
 <a href="https://instagram.com/wes_kadung_rewel"><img title="Author BY : Sahrul Gunawan Cyber" src="https://img.shields.io/badge/AUTHOR%20BY-SAHRUL~%20GUNAWAN-yellow?colorA=%23ff0000&colorB=%23FFFF00&style=for-the-badge"></a> 
@@ -20,8 +20,7 @@
 </a>
 <p align="center">
 
-# Profile View
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SahrulGunawan-ID&label=Profile%20views&color=0e75b6&style=flat" alt="SahrulGunawan-ID" />
+
 
 # <h2>👇My Editor & Tools👇</h2>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
